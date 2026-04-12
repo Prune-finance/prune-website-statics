@@ -3,5 +3,17 @@
         "title": "Welcome to Our Website",
         "subtitle": "Discover amazing content and connect with us.",
         "buttonText": "Get Started"
-    }
+    },
+    "partners": [
+        {
+            "name": "Partner One",
+            "logo": "partner1.png",
+            "description": "Leading provider of innovative solutions."
+        },
+        {
+            "name": "Partner Two",
+            "logo": "partner2.png",
+            "description": "Trusted partner for global businesses."
+        }
+    ]
 }
