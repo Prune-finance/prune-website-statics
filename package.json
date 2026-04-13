@@ -1,6 +1,6 @@
 {
   "name": "prune-website-statics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A repository for prune's storing website statics",
   "main": "content.json",
   "scripts": {
