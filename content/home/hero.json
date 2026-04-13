@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": {
+            "title1": "Making life",
+            "title2": ["richer", "happier", "easier", "rewarding"],
+            "title3": "one transaction at a",
+            "title4": "time"
+        },
+        "subtitle": "Discover amazing content and connect with us.",
+        "buttonText": "Get Started"
+    }
+}
