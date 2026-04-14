@@ -1,0 +1,29 @@
+{
+  "businessSection": {
+    "heading": "Payments Built for Business Success",
+    "image": "",
+    "description": "From small startups to global enterprises, Prune helps businesses move money faster, manage payouts, and expand into new markets with ease.",
+    "stats": [
+      {
+        "value": "100K",
+        "label": "Transactions"
+      },
+      {
+        "value": "98%",
+        "label": "Successful transactions"
+      },
+      {
+        "value": "$810M",
+        "label": "Transaction value"
+      },
+      {
+        "value": "300",
+        "label": "Issued account"
+      }
+    ],
+    "cta": {
+      "buttonText": "Contact sales",
+      "buttonLink": ""
+    }
+  }
+}

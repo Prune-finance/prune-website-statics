@@ -1,0 +1,23 @@
+{
+  "borders": {
+    "title": "Trusted Transfers Across Borders",
+    "titleDescription": "From licensing to compliance, every layer of our platform is built to protect your money and your trust. Licensed to operate in over 50+ countries, we makes cross-border transfers fast, affordable, and stress-free.",
+    "details": [
+      {
+        "title": "Licenses",
+        "description": "We are an Authorised Payment Institution, authorised by the Financial Conduct Authority under the Payment Service Regulations 2017 (670226) and a licensed money transmitter registered with HM Revenue & Customs (XBML00000150442). ",
+        "icon": "IconShieldHalf"
+      },
+      {
+        "title": "International Regulations",
+        "description": "We are regulated as a Small Payments Institution in Poland. We are also a regulated International Money Transfer Organization by the Central Bank of Nigeria. ",
+        "icon": "IconFileTextShield"
+      },
+      {
+        "title": "Compliance",
+        "description": "We protect your information with robust data security measures in compliance with GDPR and  NDPR.",
+        "icon": "IconFileText"
+      }
+    ]
+  }
+}

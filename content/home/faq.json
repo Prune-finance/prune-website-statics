@@ -1,0 +1,45 @@
+{
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "titleDescription": "Learn all you need to know about Prune. Here’s how to use each of our products, step by step.",
+    "titleResourceLink": "",
+    "faqItem": [
+      {
+        "question": "What is Prune Payments?",
+        "answer": "Prune Payments is a modern payment platform that helps businesses and individuals accept, send, and manage payments securely and efficiently."
+      },
+      {
+        "question": "Who can use Prune Payments?",
+        "answer": "Prune Payments is built for startups, SMEs, and growing businesses, as well as individuals who need reliable digital payment solutions."
+      },
+      {
+        "question": "What payment methods are supported?",
+        "answer": "We support bank transfers and other local payment options, with more methods being added as we expand."
+      },
+      {
+        "question": "How secure is Prune Payments?",
+        "answer": "Security is a top priority. We use industry-standard encryption and best practices to protect your data and transactions."
+      },
+      {
+        "question": "How long do transactions take?",
+        "answer": "Most transactions are processed instantly or within minutes. In rare cases, bank processing times may cause slight delays."
+      },
+      {
+        "question": "Are there any hidden fees?",
+        "answer": "No. All fees are transparent and clearly communicated before you complete any transaction."
+      },
+      {
+        "question": "Can I track my transactions?",
+        "answer": "Yes. Your dashboard provides a clear history of all payments, transfers, and transaction statuses in real time."
+      },
+      {
+        "question": "Is Prune Payments available outside Nigeria?",
+        "answer": "We’re starting in Nigeria, with plans to expand to other markets. Availability updates will be announced as we grow."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Simply create an account, complete the required verification steps, and you’ll be ready to start accepting or sending payments."
+      }
+    ]
+  }
+}

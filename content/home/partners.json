@@ -1,14 +1,38 @@
 {
-     "partners": [
-        {
-            "name": "Partner One",
-            "logo": "partner1.png",
-            "description": "Leading provider of innovative solutions."
-        },
-        {
-            "name": "Partner Two",
-            "logo": "partner2.png",
-            "description": "Trusted partner for global businesses."
-        }
-    ]
+  "partners": [
+    { "name": "E27 Partners UK Ltd", "logo": "" },
+    { "name": "Kunzle Ltd", "logo": "" },
+    { "name": "Innovation House Financial Services Limited", "logo": "" },
+    { "name": "Pacerforte Resources", "logo": "" },
+    { "name": "J2G Express Limited", "logo": "" },
+    { "name": "Belyfted Limited", "logo": "" },
+    { "name": "LKS Global Limited", "logo": "" },
+    { "name": "KP Agency Ltd", "logo": "" },
+    { "name": "Gabtrans UK Ltd", "logo": "" },
+    { "name": "Super Transfer UK LTD", "logo": "" },
+    { "name": "Oneafrica Technolgies Ltd", "logo": "" },
+    { "name": "Budpay", "logo": "" },
+    { "name": "Remitco", "logo": "" },
+    { "name": "Finiere Limited", "logo": "" },
+    { "name": "Rensonor Ltd", "logo": "" },
+    { "name": "Riz Remit", "logo": "" },
+    { "name": "7TH Haven Remittance Company Ltd", "logo": "" },
+    { "name": "Moneyfex Ltd", "logo": "" },
+    { "name": "Electronic Remittance Solutions Ltd", "logo": "" },
+    { "name": "Cela Remit Limited", "logo": "" },
+    { "name": "Mat & Sam Afric Link Ltd", "logo": "" },
+    { "name": "Cowrie Integrated Systems Limited", "logo": "" },
+    { "name": "Transfer Rocket Limited", "logo": "" },
+    { "name": "Alpha & Omega Trading Company Limited", "logo": "" },
+    { "name": "Roze Int (PVT) Ltd", "logo": "" },
+    { "name": "Global Remit Financial Services Ltd", "logo": "" },
+    { "name": "Pico-Bello Projekte Ltd", "logo": "" },
+    { "name": "Flutterwave", "logo": "" },
+    { "name": "First Offshore Fundamental international Limited", "logo": "" },
+    { "name": "Scalenepoint Technologies Limited", "logo": "" },
+    { "name": "Internopay Technologies Ltd", "logo": "" },
+    { "name": "Kori Global Services", "logo": "" },
+    { "name": "Remit Choice Ltd", "logo": "" },
+    { "name": "Payaza Africa Ltd", "logo": "" }
+  ]
 }
