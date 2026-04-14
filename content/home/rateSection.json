@@ -1,0 +1,23 @@
+{
+  "rateSection": {
+    "heading": "Send More, Save More",
+    "description": "Check live rates and see how much your loved ones will get. Every transfer with Prune is simple, fast, and rewarding.",
+    "cards": [
+      {
+        "title": "Zero Fees, Full Value",
+        "description": "Say goodbye to unnecessary charges. No hidden fees. What you send is what they get.",
+        "icon": ""
+      },
+      {
+        "title": "Instant Transfers",
+        "description": "Money arrives within minutes, not days. Whether it's school fees, bills, or emergencies, Prune delivers fast.",
+        "icon": ""
+      },
+      {
+        "title": "Cheaper Rates You Can Trust",
+        "description": "Maximize the value of every pound, dollar, or euro you send. We guarantee competitive exchange rates so your family gets more.",
+        "icon": ""
+      }
+    ]
+  }
+}

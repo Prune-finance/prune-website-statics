@@ -1,0 +1,12 @@
+{
+    "hero": {
+        "title": {
+            "title1": "Making life",
+            "title2": ["richer", "happier", "easier", "rewarding"],
+            "title3": "one transaction at a",
+            "title4": "time"
+        },
+        "subtitle": "Whether you're sending money, running a business, or powering global payments; every move comes with rewards that give back.",
+        "buttonText": "Download App"
+    }
+}

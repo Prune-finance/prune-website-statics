@@ -1,0 +1,118 @@
+{
+  "tabs": [
+    {
+      "label": "Personal",
+      "items": [
+        {
+          "label": "Remittance",
+          "description": "Send money home with ease.",
+          "banner": {
+            "heading1": "Turn Every Transfer Into A",
+            "heading2": "Little Extra For You",
+            "body": "Whether you're sending money, running a business, or powering global payments; every move comes with rewards that give back.",
+            "buttonText": "Download app",
+            "buttonLink": ""
+          }
+        },
+        {
+          "label": "Account",
+          "description": "Make quick, seamless transfers anytime.",
+          "banner": {
+            "heading1": "Your Money,",
+            "heading2": "Your Way",
+            "body": "Open an account that makes it easy to send money and enjoy rewards every step of the way.",
+            "buttonText": "Open account",
+            "buttonLink": ""
+          }
+        },
+        {
+          "label": "Rewards",
+          "description": "Explore a variety of perks made just for you.",
+          "banner": {
+            "heading1": "Rewards Built",
+            "heading2": "Around You.",
+            "body": "Whether it's earning extra cash or unlocking exclusive perks, our rewards are designed to give you a better experience every day.",
+            "buttonText": "Start earning rewards",
+            "buttonLink": ""
+          }
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "items": [
+        {
+          "label": "Account",
+          "description": "Manage international payments seamlessly.",
+          "banner": {
+            "heading1": "Power Your Business With",
+            "heading2": "Smarter Accounts",
+            "body": "Keep your funds secure, make payments seamlessly, and earn rewards that give your business more room to grow.",
+            "buttonText": "Open Business Account",
+            "buttonLink": ""
+          }
+        },
+        {
+          "label": "Rewards",
+          "description": "Enjoy bonuses designed for business growth.",
+          "banner": {
+            "heading1": "Grow More With",
+            "heading2": "Every Move",
+            "body": "From supplier payments to customer inflows, our rewards give your business extra value on top of every transaction.",
+            "buttonText": "Open Business Account",
+            "buttonLink": ""
+          }
+        },
+        {
+          "label": "Rates",
+          "description": "Explore a variety of perks made just for you.",
+          "banner": {
+            "heading1": "Rates That Work",
+            "heading2": "For You",
+            "body": "With our flexible rates, your business keeps more of its margins and gains room to grow.",
+            "buttonText": "Explore flexible rates",
+            "buttonLink": ""
+          }
+        }
+      ]
+    },
+    {
+      "label": "API Solution",
+      "items": [
+        {
+          "label": "Payouts",
+          "description": "Seamless payouts for your customers, anytime.",
+          "banner": {
+            "heading1": "Scale Payouts Without",
+            "heading2": "The Stress",
+            "body": "From salaries to supplier payments, our payout solutions keep your business running seamlessly while giving you more with every transaction.",
+            "buttonText": "Start global payouts",
+            "buttonLink": ""
+          }
+        },
+        {
+          "label": "Accounts Issuance",
+          "description": "Create and issue virtual accounts instantly.",
+          "banner": {
+            "heading1": "Virtual Accounts",
+            "heading2": "Made Easy",
+            "body": "Launch and manage digital accounts for your users without heavy infrastructure.",
+            "buttonText": "Explore accounts issuance",
+            "buttonLink": ""
+          }
+        },
+        {
+          "label": "24/7 Support",
+          "description": "Round-the-clock support to keep your business running.",
+          "banner": {
+            "heading1": "Support, Always At",
+            "heading2": "The Ready",
+            "body": "Day or night, our team is here to keep your payments moving and your business running smoothly.",
+            "buttonText": "Learn more",
+            "buttonLink": ""
+          }
+        }
+      ]
+    }
+  ]
+}
