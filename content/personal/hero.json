@@ -1,0 +1,21 @@
+{
+    "hero": {
+        "trust": {
+            "count": "10k+",
+            "label": "Trusted by thousands of people in over 10 countries"
+        },
+        "title": {
+            "title1": "Your Everyday",
+            "title2": "Transfers, Rewarded"
+        },
+        "subtitle": "With us, transfers don't end when the money arrives, they keep giving back through perks, vouchers, and bonuses just for you.",
+        "appStore": {
+            "text": "Download on the App Store",
+            "link": ""
+        },
+        "googlePlay": {
+            "text": "GET IT ON Google Play",
+            "link": ""
+        }
+    }
+}
