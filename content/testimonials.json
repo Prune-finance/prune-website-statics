@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "t_001",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=47"
+      }
+    },
+    {
+      "id": "t_002",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=48"
+      }
+    },
+    {
+      "id": "t_003",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=49"
+      }
+    },
+    {
+      "id": "t_004",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=50"
+      }
+    },
+    {
+      "id": "t_005",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=46"
+      }
+    },
+    {
+      "id": "t_006",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=48"
+      }
+    },
+    {
+      "id": "t_007",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=49"
+      }
+    },
+    {
+      "id": "t_008",
+      "rating": 4.8,
+      "quote": "\"Payments are the main interaction point between Accenture's financial services clients and their customers, and are core to our relationships beyond that sector too.\"",
+      "author": {
+        "name": "Charlotte Hanlin",
+        "role": "Co-Founder, Heroes Digital",
+        "avatarUrl": "https://i.pravatar.cc/96?img=50"
+      }
+    }
+  ]
+}
