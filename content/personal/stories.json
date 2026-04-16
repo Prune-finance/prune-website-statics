@@ -1,0 +1,26 @@
+{
+  "heading": "Stories From Our Community",
+  "body": "See how we are making life so much better for our customers.",
+  "stats": [
+    {
+      "value": "50+",
+      "label": "Currencies"
+    },
+    {
+      "value": "10K+",
+      "label": "Users"
+    },
+    {
+      "value": "4.6",
+      "label": "Rating"
+    },
+    {
+      "value": "600+",
+      "label": "Transactions"
+    },
+    {
+      "value": "99%",
+      "label": "Successful transaction rate"
+    }
+  ]
+}
