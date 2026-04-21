@@ -1,23 +1,69 @@
 {
   "partners": [
-    { "name": "7TH Haven Remittance Company Ltd", "logo": "7thaven.png" },
+    {
+      "name": "7TH Haven Remittance Company Ltd",
+      "logo": "7thaven.png",
+      "imgtoken": "718968d6-ccab-46a3-8f49-75750c6012b6"
+    },
     {
       "name": "Alpha & Omega Trading Company Limited",
-      "logo": "alpha-omega.jpg"
+      "logo": "alpha-omega.jpg",
+      "imgtoken": "78e2923e-f49b-40fc-89c1-bb4a8194c2c0"
     },
-    { "name": "Budpay", "logo": "budpay.png" },
-    { "name": "Cela Remit Limited", "logo": "celaremit.png" },
-    { "name": "E27 Partners UK Ltd", "logo": "e2-partners-uk-ltd.png" },
-    { "name": "Flutterwave", "logo": "flutterwave.png" },
+    {
+      "name": "Budpay",
+      "logo": "budpay.png",
+      "imgtoken": "a86f0493-4836-4f27-8402-5aea49f1f981"
+    },
+    {
+      "name": "Cela Remit Limited",
+      "logo": "celaremit.png",
+      "imgtoken": "243c7ebf-975b-45df-990f-3d646d75860a"
+    },
+    {
+      "name": "E27 Partners UK Ltd",
+      "logo": "e2-partners-uk-ltd.png",
+      "imgtoken": "138d6415-49be-4d06-af38-dddc461ef49a"
+    },
+    {
+      "name": "Flutterwave",
+      "logo": "flutterwave.png",
+      "imgtoken": "c282ccc0-dcf9-4af6-bb48-a2ac22d8f9e6"
+    },
     {
       "name": "Innovation House Financial Services Limited",
-      "logo": "innovation-house.png"
+      "logo": "innovation-house.png",
+      "imgtoken": "8498f598-18f5-48fa-8138-8ac2e017ac8f"
     },
-    { "name": "KP Agency Ltd", "logo": "kp-agency.jpg" },
-    { "name": "Remitco", "logo": "remitco.png" },
-    { "name": "Riz Remit", "logo": "rizremit.png" },
-    { "name": "Roze Int (PVT) Ltd", "logo": "rozeremit.png" },
-    { "name": "Remit Choice Ltd", "logo": "remit-choice.png" },
-    { "name": "Payaza Africa Ltd", "logo": "payaza.png" }
+    {
+      "name": "KP Agency Ltd",
+      "logo": "kp-agency.jpg",
+      "imgtoken": "663658a0-07a8-4e98-87a4-1201e6403039"
+    },
+    {
+      "name": "Remitco",
+      "logo": "remitco.png",
+      "imgtoken": "17a9c0ac-587f-4401-ba29-065d448052a2"
+    },
+    {
+      "name": "Riz Remit",
+      "logo": "rizremit.png",
+      "imgtoken": "ebfc9ac1-dd39-4c3e-be29-7b6d4326aefa"
+    },
+    {
+      "name": "Roze Int (PVT) Ltd",
+      "logo": "rozeremit.png",
+      "imgtoken": "747b1b7c-9e47-4fd4-8fe2-1f4fd4f65f21"
+    },
+    {
+      "name": "Remit Choice Ltd",
+      "logo": "remit-choice.png",
+      "imgtoken": "9b6444c8-24c1-443d-a6bd-071a2517b37b"
+    },
+    {
+      "name": "Payaza Africa Ltd",
+      "logo": "payaza.png",
+      "imgtoken": "d08b158e-6213-429b-bd95-5f75c47c8031"
+    }
   ]
 }
