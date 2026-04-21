@@ -1,22 +1,23 @@
 {
   "partners": [
-    { "name": "E27 Partners UK Ltd", "logo": "e27-partners-uk-ltd.png" },
+    { "name": "7TH Haven Remittance Company Ltd", "logo": "7thaven.png" },
+    {
+      "name": "Alpha & Omega Trading Company Limited",
+      "logo": "alpha-omega.jpg"
+    },
+    { "name": "Budpay", "logo": "budpay.png" },
+    { "name": "Cela Remit Limited", "logo": "celaremit.png" },
+    { "name": "E27 Partners UK Ltd", "logo": "e2-partners-uk-ltd.png" },
+    { "name": "Flutterwave", "logo": "flutterwave.png" },
     {
       "name": "Innovation House Financial Services Limited",
       "logo": "innovation-house.png"
     },
-    { "name": "KP Agency Ltd", "logo": "kp-agency.jpeg" },
-    { "name": "Budpay", "logo": "budpay.png" },
+    { "name": "KP Agency Ltd", "logo": "kp-agency.jpg" },
     { "name": "Remitco", "logo": "remitco.png" },
     { "name": "Riz Remit", "logo": "rizremit.png" },
-    { "name": "7TH Haven Remittance Company Ltd", "logo": "7thaven.png" },
-    { "name": "Cela Remit Limited", "logo": "celaremit.png" },
-    {
-      "name": "Alpha & Omega Trading Company Limited",
-      "logo": "alpha-omega.png"
-    },
     { "name": "Roze Int (PVT) Ltd", "logo": "rozeremit.png" },
-    { "name": "Remit Choice Ltd", "logo": "remitchoice.png" },
+    { "name": "Remit Choice Ltd", "logo": "remit-choice.png" },
     { "name": "Payaza Africa Ltd", "logo": "payaza.png" }
   ]
 }
