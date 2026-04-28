@@ -1,0 +1,218 @@
+{
+  "heading": "Privacy Policy",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This is the Privacy Policy for Prune Payments Limited, a UK Company incorporated and licensed under the laws of the United Kingdom, (company number 07762021) with its Registered Office at 35-37 Ludgate Hill, Office 7, London, England, EC4M 7JN. Our Privacy Policy will explain how we collect, process and disseminate personal data when our mobile application (the \"App\") and/or our website are used. Personal data refers to any information (usually sensitive information) about a particular person. The relevant laws of the United Kingdom and Nigeria place restrictions on how personal data can be used. It is for this reason that we aim to comply with the General Data Protection Regulation (GDPR) 2016 and the UK Data Protection Act 2018 with regards to handling personal data. We also aim to comply with the Nigerian Data Protection Regulations 2019 (NDPR). Under both English and Nigerian law, we are required to have a lawful basis for processing your personal information. At least one of the following lawful basis must apply before we process your personal information: contractual or legal obligations, legitimate interest of the data controller, public interest, vital interest of the data subject or consent. As such, this policy will describe the procedures on the collection, use and disclosure of your personal data."
+        }
+      ]
+    },
+    {
+      "title": "The Legal Basis for Using Your Personal Data",
+      "content": [
+        {
+          "type": "numbered-list",
+          "items": [
+            {
+              "heading": "Legal Obligations",
+              "text": "We have a legal responsibility to collect and store your personal data. This means we must perform any right or obligation conferred or imposed on us as a result of the law or regulations. We may also be required to process or share your personal data in compliance with statutory codes of practice and other legal or tax related obligations. For example, we may collect personal data to identify you and share the information with regulatory authorities when required to do so under law such as where there is a court order from a competent court mandating disclosure or where there is a suspicious transaction."
+            },
+            {
+              "heading": "Contractual Obligations",
+              "text": "We use personal data to enter into agreements with you and to meet our contractual obligations. This means processing is necessary for the performance of the contract(s) you enter into with us. This lawful basis of processing your data concerns providing our services to you, customer support and account management. In order to deliver all the services in our platform, we may also need to share your data with our service providers and partners who help us operate and improve our platforms for security management and other functions. We may also share your data if we are involved in a merger, sale, acquisitions, restructuring, bankruptcy or any change of ownership where we are contractually bound to share or transfer your personal information."
+            },
+            {
+              "heading": "Legitimate Interests",
+              "text": "We collect and process data in accordance with our legitimate interests which may be pursued by us or our service providers acting on our behalf or by a third-party. However, we will ensure that such interests do not pose a high risk to your rights and freedoms afforded by applicable laws and/or regulations. We aim to make services and features more relevant and improve our services and your experience as a user. Our legitimate interest concerns ensuring the continuity of our service. This includes detecting, fighting and preventing fraud or other illegal or unauthorised activities. This means preserving the security of our services and providing you with marketing communications about our services."
+            },
+            {
+              "heading": "Consent",
+              "text": "You explicitly consent to us accessing, processing, retaining and disseminating personal data for the provision of payment services and electronic money services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Types of Data We Collect",
+      "content": [
+        {
+          "type": "numbered-list",
+          "items": [
+            {
+              "heading": "Personal Information",
+              "text": "Personal data is information that is necessary to properly identify our users. This includes:",
+              "subList": [
+                "Your full name",
+                "Your residential or delivery address",
+                "Telephone number",
+                "Details of the device you use (e.g. device ID)",
+                "Email address",
+                "Gender",
+                "Date of birth",
+                "Income and occupation",
+                "ID information including image verification",
+                "Bank payment information (payment card type, billing address, PAN and CVV details, sort code and details of recipients)",
+                "Your device settings (e.g. language preference, time zone)",
+                "Your geographical location and IP address",
+                "Records of our interactions (e.g. phone calls, messages or chat conversations)",
+                "Information relating to your transaction(s) (e.g. the person you are sending money to & reason for transfers)",
+                "Details and copies of your identification documents (for example passport or government ID)",
+                "Information relating to how you pay us (e.g. encrypted card information and bank details)",
+                "In the case of businesses, we collect in addition to the above data, the incorporation details of the business"
+              ]
+            },
+            {
+              "heading": "Account Sign-in Information",
+              "text": "This includes your username or a similar means of identification, password or access codes."
+            },
+            {
+              "heading": "Device Technical Information",
+              "text": "This includes Internet Protocol (IP) address, log-in information, browser type and version, time-zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices used to access our product or services."
+            },
+            {
+              "heading": "Usage Information",
+              "text": "This includes your clickstream to, through and from our platform including date and time, products viewed, used or searched for, page response time, download errors, length of visits to certain pages, full Uniform Resource Locators (URLs) page interaction information (such as scrolling, clicks and mouse-overs) and support information such as enquiry or complaint information."
+            },
+            {
+              "heading": "Preference Information",
+              "text": "This includes communication, marketing and other preferences which you may subscribe to by enabling this in your settings. It also includes responses you opt to give to questionnaires, surveys or forms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How We Use the Data We Collect",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We may use the data collected for the following purposes:"
+        },
+        {
+          "type": "numbered-list",
+          "items": [
+            {
+              "heading": "Regulatory Compliance",
+              "text": "To comply with any applicable laws and regulatory requirements. We aim to prevent and detect fraud or other illegal or unauthorised activities. This means that we must engage in monitoring operations of suspicious user activity and suspicious transactions. In addition to this, we must audit our systems and deploy security measures. We will request and verify your financial related information by automated means and report this information to regulatory authorities to comply with our legal obligations under existing Anti-Money Laundering, Combating the Financing of Terrorism and Tax regulations."
+            },
+            {
+              "heading": "Contractual Obligations",
+              "text": "To carry out our obligations relating to your contract(s) with us and provide you with the information, products and services that you request from us."
+            },
+            {
+              "heading": "Service Enhancement",
+              "text": "Your data will be used to administer our services, troubleshoot, analyse data, research, statistical and carry out surveys. Your data can also improve our services by enabling us to conduct statistical or general analysis on online activity, usage, browser, device and other data identifying usage trends. We also aim to determine the effectiveness of our promotional campaigns, evaluate and improve our products, services, marketing and most importantly, your user experience. We may also need to notify you about changes to our services. This includes payment management, account administration and customer support services. Communication between us may be recorded and monitored including phone calls to help maintain appropriate records, check your instructions, and improve our services for quality assessment and training purposes."
+            },
+            {
+              "heading": "Marketing",
+              "text": "Data can be used to understand how effective our advertising strategy is and help us deliver relevant advertising information to you. We may use personal data collected to provide you with marketing communications on related products or services that you may be interested in. These communications will be provided on the preferential medium of communication authorised by you (if any). This is without prejudice to your right to opt out of any marketing communication at any time by simply unsubscribing to our communications. You can do this by updating your preferences within your account on our platform, or by contacting us at info@prunepayments.com. Your personal information will not be transferred to third parties for marketing purposes without your consent being first explicitly obtained."
+            },
+            {
+              "heading": "Business Administration",
+              "text": "Ensuring proper administration of our business which includes keeping appropriate records, resolving complaints and managing our business relationships and opportunities."
+            },
+            {
+              "heading": "Security Purposes",
+              "text": "To keep our website safe and secure at all times."
+            },
+            {
+              "heading": "Defence Against Legal Claims",
+              "text": "Where necessary, we may use personal information collected to establish, exercise or defend against claims in potential legal proceedings, alternative dispute resolution forums or legal settlements of any sorts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Data Retention",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We only keep your personal data for as long as is absolutely necessary in line with the relevant guidelines and requirements. This includes best practice recommendations or as mandated under the law. This means your data will only be kept for as long as we have an active business relationship with you for payment processing or other financial services. Consequently, once our business relationship has been concluded, we will delete your information and any other personal identifiers. If this is not possible, we will store your data securely and avoid further use of your information. This is without prejudice to certain personal information which may be securely kept for only archiving purposes or statistical purposes of public interest. Furthermore, as a regulated financial institution, we are required by law to store some of your data beyond the termination of your relationship with us but we will always delete data that is no longer required by any relevant/applicable law."
+        }
+      ]
+    },
+    {
+      "title": "Data Security",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We have security measures in place to prevent your personal data from being accessed in any unauthorised way. We have technical safeguards to protect your personal information, both during transmission and storage. However, no method of transmission over the internet, via email, or method of electronic storage is 100% secure. This means that although we store your information on our secure servers, we cannot guarantee its absolute security."
+        }
+      ]
+    },
+    {
+      "title": "Data Protection Rights",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Data protection laws afford you several rights in relation to how any organisation can process your personal data. Your data protection rights under English law are as follows:"
+        },
+        {
+          "type": "rights",
+          "items": [
+            {
+              "title": "Right to access data",
+              "text": "You have the right to receive a copy of the Personal Data we hold about you (this is sometimes referred to as a \"Subject Access Request\")."
+            },
+            {
+              "title": "Right to be informed",
+              "text": "You have the right to know what personal data we collect about you, how we use it, for what purpose and in accordance with which lawful basis, who we share it with and how long we keep it. We use our Privacy Policy to explain this."
+            },
+            {
+              "title": "Right to rectification",
+              "text": "You have the right to have any incomplete or inaccurate information we hold about you corrected. You can also make updates yourself in the App."
+            },
+            {
+              "title": "Right to restrict processing",
+              "text": "You can tell us to stop using your personal data, including for marketing."
+            },
+            {
+              "title": "Right to objection",
+              "text": "You have the right to object to us processing your personal data. If our legal basis for using your personal data is 'legitimate interests' and you disagree with us using it, you can object. However, we will assess whether our interests are overridden by your fundamental rights and freedoms."
+            },
+            {
+              "title": "Right to portability",
+              "text": "You can ask us to transfer personal data to you or another company."
+            },
+            {
+              "title": "Right to erasure",
+              "text": "You have the right to ask us to delete your personal data if it is no longer necessary for the purpose for which it was collected or needed by us to meet our legal obligations or for a legitimate interest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Privacy Contact",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To lodge a complaint regarding Prune's privacy policies, or if you would like to exercise your right of access to the personal data we hold about you, feel free to contact us:"
+        },
+        {
+          "type": "contact",
+          "items": [
+            { "label": "Email", "value": "info@prunepayments.com or legal@prunepayments.com" },
+            { "label": "Post", "value": "35-37 Ludgate Hill, Office 7, London, EC4M 7JN, United Kingdom" }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have concerns with our adherence to applicable privacy legislation or the principles in this Policy, you have the right to contact the relevant regulatory and/or data protection authority."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In the United Kingdom, please contact the Information Commissioner's Office (ICO)",
+            "In Nigeria, please contact the Nigerian Data Protection Commission (NDPC)"
+          ]
+        }
+      ]
+    }
+  ]
+}
