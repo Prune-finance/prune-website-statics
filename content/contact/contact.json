@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "badge": "Contact us",
+    "title": "Let's Get In Touch!",
+    "description": "We have around 15+ offices worldwide ready to help."
+  },
+  "map": {
+    "tooltip": {
+      "flag": "🇬🇧",
+      "city": "London, UK",
+      "addressLines": [
+        "35-37 Ludgate Hill, Office 7",
+        "London, EC4M 7JN"
+      ]
+    }
+  },
+  "contactItems": [
+    {
+      "icon": "at",
+      "title": "Email Address",
+      "description": "We're available to help via email.",
+      "link": "support@prunepayments.com",
+      "href": "mailto:support@prunepayments.com"
+    },
+    {
+      "icon": "message-circle",
+      "title": "Live Chat",
+      "description": "Our team can respond in real time.",
+      "link": "support@prunepayments.com",
+      "href": "mailto:support@prunepayments.com"
+    },
+    {
+      "icon": "phone",
+      "title": "Phone Number",
+      "description": "Call us from 9 – 5 PM, PST Time",
+      "link": "(+1) 234 - 4567 - 789",
+      "href": "tel:+12344567789"
+    }
+  ],
+  "contactInfo": {
+    "badge": "Reach Out To Us",
+    "title": "Our Contact Info",
+    "description": "You may reach out to us with these info.",
+    "rows": [
+      [
+        {
+          "icon": "building",
+          "title": "London Office",
+          "value": "35-37 Ludgate Hill, Office 7, London"
+        },
+        {
+          "icon": "message-circle",
+          "title": "Live Chat",
+          "value": "hello@prunepayments.com"
+        }
+      ],
+      [
+        {
+          "icon": "building",
+          "title": "Japan Office",
+          "value": "221b Banzai Street, Osaka"
+        },
+        {
+          "icon": "at",
+          "title": "Email Support",
+          "value": "support@prunepayments.com"
+        }
+      ],
+      [
+        {
+          "icon": "building",
+          "title": "USA Office",
+          "value": "221b Freedom Street, New York"
+        },
+        {
+          "icon": "phone",
+          "title": "Contact Sales",
+          "value": "sales@prunepayments.com"
+        }
+      ]
+    ]
+  }
+}
