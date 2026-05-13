@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Join Our Team",
+    "description": "Be part of a team making global money movement faster, fairer, and more accessible for everyone.",
+    "photoSrc": "",
+    "photoAlt": "Prune team members enjoying life"
+  },
+  "openings": {
+    "label": "Job Openings",
+    "title": "Our Job Openings",
+    "description": "With great starting salary, which starts from 500K. Let's join us quickly then."
+  },
+  "jobs": [
+    {
+      "id": "senior-product-designer",
+      "title": "Senior Product Designer",
+      "description": "Lead the design of world-class financial products used by millions across the globe.",
+      "department": "Design",
+      "type": "Full Time",
+      "location": "Remote",
+      "salary": "$100–$200K"
+    },
+    {
+      "id": "customer-support-expert",
+      "title": "Customer Support Expert",
+      "description": "Help our customers navigate seamless money transfers and deliver outstanding support experiences.",
+      "department": "Marketing",
+      "type": "Part Time",
+      "location": "In House",
+      "salary": "$200–$300K"
+    },
+    {
+      "id": "frontend-ux-engineer",
+      "title": "Frontend UX Engineer",
+      "description": "Build beautiful, accessible interfaces that power Prune's web and mobile experiences.",
+      "department": "Engineering",
+      "type": "Full Time",
+      "location": "Remote",
+      "salary": "$50–$75K"
+    },
+    {
+      "id": "senior-ui-ux-designer",
+      "title": "Senior UI/UX Designer",
+      "description": "Define and evolve Prune's visual language across product surfaces and marketing materials.",
+      "department": "Design",
+      "type": "Full Time",
+      "location": "In House",
+      "salary": "$100–$200K"
+    },
+    {
+      "id": "head-of-human-resource",
+      "title": "Head of Human Resource",
+      "description": "Shape Prune's people strategy, build a great culture, and scale our talent programs globally.",
+      "department": "HR",
+      "type": "Part Time",
+      "location": "Remote",
+      "salary": "$100–$200K"
+    }
+  ]
+}
