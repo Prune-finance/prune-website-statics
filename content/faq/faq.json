@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to your questions here."
+  },
+  "browseSection": {
+    "title": "Browse by Topics",
+    "subtitle": "Here's what other people are finding most useful right now:"
+  },
+  "categories": [
+    {
+      "id": "getting-started",
+      "label": "Getting Started",
+      "items": [
+        { "icon": "help-circle", "question": "What is Prune?", "answer": "Prune is a UK-based financial technology company that enables fast, affordable international money transfers. We help individuals and businesses send money across borders with competitive exchange rates and zero hidden fees." },
+        { "icon": "download", "question": "How do I download the Prune app?", "answer": "You can download the Prune app from the Apple App Store or Google Play Store. Simply search for 'Prune Payments' and install the app on your iOS or Android device." },
+        { "icon": "globe", "question": "Is Prune available in my country?", "answer": "Prune currently supports transfers to over 30 countries across Africa, Europe, and beyond. Visit our website or check the app to see the full list of supported corridors." },
+        { "icon": "coins", "question": "What currencies can I send with Prune?", "answer": "We support a growing list of currencies including GBP, EUR, USD, NGN, GHS, and more. The available currencies depend on the send and receive countries selected." },
+        { "icon": "shield-check", "question": "Is Prune safe to use?", "answer": "Yes. Prune is authorised and regulated by the Financial Conduct Authority (FCA) as an Authorised Payment Institution. Your funds are safeguarded in dedicated client money accounts held at major commercial banks." },
+        { "icon": "stars", "question": "What are Prune rewards?", "answer": "Prune rewards you for every transfer you make. Earn points, vouchers, and bonuses that you can redeem for everyday perks — from shopping discounts to event tickets." }
+      ]
+    },
+    {
+      "id": "accounts",
+      "label": "Accounts",
+      "items": [
+        { "icon": "user-circle", "question": "How do I create a Prune account?", "answer": "Download the Prune app, tap 'Get Started', and follow the on-screen instructions. You'll need your name, email, phone number, and identity documents to complete registration." },
+        { "icon": "edit", "question": "How do I update my account details?", "answer": "Log in to the app, go to Profile, and tap 'Edit Profile'. You can update contact details and preferences. Some changes may require re-verification for security purposes." },
+        { "icon": "wallet", "question": "What is a Prune virtual account?", "answer": "A Prune virtual account is a digital account number that lets you receive funds in supported currencies. Business customers can use virtual accounts to collect payments globally." },
+        { "icon": "lock", "question": "How do I reset my password?", "answer": "On the login screen, tap 'Forgot Password', enter your account email, and follow the instructions in the reset email. The reset link expires after 24 hours." },
+        { "icon": "ban", "question": "How do I close my Prune account?", "answer": "Contact our support team via the app or email. Ensure all pending transfers are completed and your balance is zero before requesting account closure." },
+        { "icon": "device-mobile", "question": "Can I use Prune on multiple devices?", "answer": "Yes, you can access your account on multiple devices. For security, only one active session is allowed at a time — logging in on a new device signs you out of the previous one." }
+      ]
+    },
+    {
+      "id": "send-and-receive",
+      "label": "Send and Receive",
+      "items": [
+        { "icon": "send", "question": "How do I send money with Prune?", "answer": "Open the app, tap 'Send Money', enter the amount and recipient details, select your payment method, review the rate and fees, then confirm. It's that simple." },
+        { "icon": "clock", "question": "How long does a transfer take?", "answer": "Most transfers complete within minutes to a few hours. Times depend on the destination, recipient bank, and payment method. We always show an estimated delivery time before you confirm." },
+        { "icon": "receipt", "question": "Are there any fees for sending money?", "answer": "Prune charges zero transfer fees on most corridors. You only pay the exchange rate margin, which is built into the rate shown. What you see is what your recipient gets — no surprises." },
+        { "icon": "arrows-right-left", "question": "What exchange rate does Prune use?", "answer": "We use competitive exchange rates. The rate shown in the app is the rate you get — locked in at the time of your transfer confirmation." },
+        { "icon": "circle-x", "question": "Can I cancel a transfer?", "answer": "Transfers can be cancelled while in 'Pending' status. Once processing or completed, cancellation is not possible. Contact support immediately if you need to cancel." },
+        { "icon": "trending-up", "question": "What are the transfer limits?", "answer": "Limits depend on your verification level. Fully verified accounts can send up to £10,000 per transaction and £50,000 per month. Business accounts have higher limits available on request." }
+      ]
+    },
+    {
+      "id": "kyc",
+      "label": "KYC",
+      "items": [
+        { "icon": "id-badge", "question": "Why does Prune need to verify my identity?", "answer": "As a regulated payment institution, we are required by law to verify all customers. This Know Your Customer (KYC) process protects you and helps us prevent financial crime." },
+        { "icon": "file-description", "question": "What documents do I need for verification?", "answer": "You need a valid government-issued photo ID (passport, national ID, or driver's licence) and proof of address (utility bill or bank statement dated within 3 months)." },
+        { "icon": "clock", "question": "How long does verification take?", "answer": "Most verifications complete in minutes via our automated system. Manual review may take up to 24 hours. We'll notify you as soon as your account is verified." },
+        { "icon": "alert-circle", "question": "What happens if my verification fails?", "answer": "You'll be prompted to resubmit your documents. Ensure photos are clear and all text is legible. If issues persist, contact our support team for assistance." },
+        { "icon": "lock-open", "question": "Do I need to be verified to send money?", "answer": "Yes, identity verification is required before making transfers. This protects your account and ensures compliance with financial regulations. The process is quick and straightforward." },
+        { "icon": "shield", "question": "How secure is my personal information?", "answer": "Your data is encrypted and stored securely in compliance with UK GDPR. We never sell your information to third parties and only share it as required by law or to process transactions." }
+      ]
+    }
+  ]
+}
