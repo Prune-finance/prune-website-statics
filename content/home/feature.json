@@ -6,6 +6,7 @@
         {
           "label": "Remittance",
           "description": "Send money home with ease.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/Web%20videos%2Ffreepik__overhead-shot-a-person-relaxes-in-a-vibrant-green-__15252.mp4?alt=media&token=17b1a687-c292-4500-9a80-1762033712eb",
           "banner": {
             "heading1": "Turn Every Transfer Into A",
             "heading2": "Little Extra For You",
@@ -17,6 +18,7 @@
         {
           "label": "Account",
           "description": "Make quick, seamless transfers anytime.",
+          "videoUrl": "",
           "banner": {
             "heading1": "Your Money,",
             "heading2": "Your Way",
@@ -28,6 +30,7 @@
         {
           "label": "Rewards",
           "description": "Explore a variety of perks made just for you.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/prune-website%2Ffeature-videos%2Fpersonal-rewards.mp4?alt=media&token=a2515546-5261-46b7-beb3-e246b867a21a",
           "banner": {
             "heading1": "Rewards Built",
             "heading2": "Around You.",
@@ -44,34 +47,37 @@
         {
           "label": "Account",
           "description": "Manage international payments seamlessly.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/prune-website%2Ffeature-videos%2Fbusiness-account.mp4?alt=media&token=e8d87777-1a93-4db8-bc0b-61e9701825d9",
           "banner": {
             "heading1": "Power Your Business With",
             "heading2": "Smarter Accounts",
             "body": "Keep your funds secure, make payments seamlessly, and earn rewards that give your business more room to grow.",
             "buttonText": "Open Business Account",
-            "buttonLink": ""
+            "buttonLink": "/business"
           }
         },
         {
           "label": "Rewards",
           "description": "Enjoy bonuses designed for business growth.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/prune-website%2Ffeature-videos%2Fbusiness-rewards.mp4?alt=media&token=28cbe173-dd44-48b1-bb37-48d59c599faf",
           "banner": {
             "heading1": "Grow More With",
             "heading2": "Every Move",
             "body": "From supplier payments to customer inflows, our rewards give your business extra value on top of every transaction.",
             "buttonText": "Open Business Account",
-            "buttonLink": ""
+            "buttonLink": "/business"
           }
         },
         {
           "label": "Rates",
           "description": "Explore a variety of perks made just for you.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/Web%20videos%2Ffreepik__smooth-dolly-shot-a-cheerful-shopkeeper-stands-beh__83116.mp4?alt=media&token=8e4dc6a7-7c6f-4f59-887b-f1f69a879517",
           "banner": {
             "heading1": "Rates That Work",
             "heading2": "For You",
             "body": "With our flexible rates, your business keeps more of its margins and gains room to grow.",
             "buttonText": "Explore flexible rates",
-            "buttonLink": ""
+            "buttonLink": "/business"
           }
         }
       ]
@@ -82,6 +88,7 @@
         {
           "label": "Payouts",
           "description": "Seamless payouts for your customers, anytime.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/prune-website%2Ffeature-videos%2Fapi-payout.mp4?alt=media&token=98b6a710-cc5c-4602-9aef-4fbc869efb2c",
           "banner": {
             "heading1": "Scale Payouts Without",
             "heading2": "The Stress",
@@ -93,6 +100,7 @@
         {
           "label": "Accounts Issuance",
           "description": "Create and issue virtual accounts instantly.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/prune-website%2Ffeature-videos%2Fapi-account.mp4?alt=media&token=06cf0c01-be4d-4512-a74c-ca28a99244a5",
           "banner": {
             "heading1": "Virtual Accounts",
             "heading2": "Made Easy",
@@ -104,6 +112,7 @@
         {
           "label": "24/7 Support",
           "description": "Round-the-clock support to keep your business running.",
+          "videoUrl": "https://firebasestorage.googleapis.com/v0/b/prune-payments-402022.firebasestorage.app/o/prune-website%2Ffeature-videos%2Fapi-support.mp4?alt=media&token=7eea978d-8d54-467c-a653-bab4e3a7879c",
           "banner": {
             "heading1": "Support, Always At",
             "heading2": "The Ready",
