@@ -2,7 +2,7 @@
   "hero": {
     "badge": "Contact us",
     "title": "Let's Get In Touch!",
-    "description": "We have around 15+ offices worldwide ready to help."
+    "description": ""
   },
   "map": {
     "tooltip": {
@@ -33,8 +33,8 @@
       "icon": "phone",
       "title": "Phone Number",
       "description": "Call us from 9 – 5 PM, PST Time",
-      "link": "(+1) 234 - 4567 - 789",
-      "href": "tel:+12344567789"
+      "link": "(+44) 0204 5766 666",
+      "href": "tel:+4402045766666"
     }
   ],
   "contactInfo": {
@@ -56,9 +56,9 @@
       ],
       [
         {
-          "icon": "building",
-          "title": "Japan Office",
-          "value": "221b Banzai Street, Osaka"
+          "icon": "message-circle",
+          "title": "WhatsApp",
+          "value": "(+44) 0204 5766 666"
         },
         {
           "icon": "at",
